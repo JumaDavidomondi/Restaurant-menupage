@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 2px;
+    padding: 5px;
+    background-color: white;
+}
+
+header {
+    text-align: center;
+    background-color:lightgreen;
+    padding: 20px;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color:red;
+}
+
+table {
+    width: 80%;
+    margin: 20px;
+    border:  solid black;
+    border-collapse: collapse;
+    border-color:black;
+    background-color:lightblue;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+th {
+    background-color: lightgreen;
+    color: black;
+}
+
+a {
+    color: lightsalmon;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
